@@ -1,9 +1,9 @@
+<p align="center">
+  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXIxcDFybzYxNHNrYjU1d2hkcTJtM3Iya2VrZzhodzZ4c3Rwc3Y3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/200.webp](https://www.vecteezy.com/video/19578860-looping-matrix-style-cyrillic-alphabet-code-rain-effect-lightness-to-separate-from-the-background)" alt="Matrix Code" width="1200" height="100">
+</p>
+
 <h1 align="center">Hi there 👋, I'm Go'zal</h1>
 <h3 align="center">A passionate Frontend Developer from Samarkand</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gozal1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
