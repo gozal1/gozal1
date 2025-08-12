@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Go'zal</h1>
-<h3 align="center">A passionate Frontend Developer from [Your Country]</h3>
+<h3 align="center">A passionate Frontend Developer from Samarkand</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gozal1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,7 +10,6 @@
 ## 🧑‍💻 About Me:
 - 🌱 I’m currently learning **React.js, Next.js, TypeScript, Tailwind CSS**
 - 🔭 I’m working on **modern and responsive web apps**
-- 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - 📫 How to reach me: **https://t.me/G_1805/**
 - ⚡ Fun fact: *I turn coffee ☕ into code*
@@ -52,10 +51,8 @@
 ---
 
 ## 📫 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/USERNAME)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=react&logoColor=white)](https://portfolio-link.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:email@example.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/G_1805)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=react&logoColor=white)](https://github.com/gozal1/)
 
 ---
 
