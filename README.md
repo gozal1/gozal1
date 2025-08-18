@@ -63,9 +63,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/G_1805)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=react&logoColor=white)](https://github.com/gozal1/)
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TailwindCSS;Building+modern+web+applications;Always+learning+new+things" />
-</p>
 
