@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TailwindCSS;Building+modern+web+applications;Always+learning+new+things" />
+</p>
+---
+
+
+<p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhoODltaHlic3Y0Z3diNGhpMHZ5cW9nNGM1eHluN3B3enZqNmE3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy.gif" alt="Matrix Code" width="1200" height="100">
 </p>
 
